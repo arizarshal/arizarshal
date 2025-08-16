@@ -4,17 +4,6 @@
 
 I’m passionate about building scalable backend systems, APIs, and full-stack applications. Currently focusing on **Node.js** and exploring the **MERN stack**.  
 
----
-
-### 🚀 About Me
-- 🌱 Learning and growing in **Node.js, Express, MongoDB**  
-- 🔭 Building side projects like **Mapty** (workout tracker with Leaflet & MongoDB)  
-- 💡 Interested in **backend engineering**, **REST APIs**, and **database design**  
-- 🤝 Open to collaborating on exciting **web development projects**  
-- 📫 Reach me at **[arizarshal@gmail.com](mailto:arizarshal@gmail.com)**  
-
----
-
 ### 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
