@@ -15,8 +15,8 @@ const ariz = {
     location: "India",
     currentFocus: "Backend Development & MERN Stack",
     passion: ["Scalable Systems", "Clean Code", "API Design"],
-    learning: ["Advanced Node.js", "System Design", "DevOps"],
-    askMeAbout: ["Backend Architecture", "RESTful APIs", "Database Design"],
+    learning: ["Advanced Node.js", "MVC Architecture", "POSTMAN"],
+    askMeAbout: ["Backend Architecture", "RESTful APIs", "Database Design","API Testing"],
     funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
@@ -78,7 +78,6 @@ const ariz = {
 
 - 🌱 **Learning**: Advanced Node.js patterns and microservices architecture
 - 🚀 **Building**: RESTful APIs and scalable backend systems
-- 🤝 **Open to**: Collaborating on open-source projects
 - 💡 **Goal**: Contributing to impactful projects and growing as a developer
 
 ## 📈 Activity Graph
@@ -93,7 +92,7 @@ const ariz = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariz-arshal/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arizarshal@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arizarshal)
 
