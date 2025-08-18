@@ -5,22 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%E2%9A%A1;Open-Source+Learner+%F0%9F%9A%80;Building+Scalable+Systems+%F0%9F%8F%97%EF%B8%8F)
 
 </div>
-
 ---
-
-## 🚀 About Me
-
-```javascript
-const ariz = {
-    location: "India",
-    currentFocus: "Backend Development & MERN Stack",
-    passion: ["Scalable Systems", "Clean Code", "API Design"],
-    learning: ["Advanced Node.js", "MVC Architecture", "POSTMAN"],
-    askMeAbout: ["Backend Architecture", "RESTful APIs", "Database Design","API Testing"],
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-```
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -66,27 +51,11 @@ const ariz = {
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=arizarshal&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6)
-
-</div>
-
 ## 🔥 Current Focus
 
 - 🌱 **Learning**: Advanced Node.js patterns and microservices architecture
 - 🚀 **Building**: RESTful APIs and scalable backend systems
 - 💡 **Goal**: Contributing to impactful projects and growing as a developer
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arizarshal&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
-
-</div>
 
 ## 🤝 Let's Connect!
 
@@ -97,9 +66,7 @@ const ariz = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arizarshal)
 
 </div>
-
 ---
-
 <div align="center">
   
   **💭 "Code is like humor. When you have to explain it, it's bad." – Cory House**
