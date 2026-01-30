@@ -26,7 +26,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arizarshal)
 
 </div>
----
 <div align="center">
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=arizarshal&color=58a6ff&style=for-the-badge)
