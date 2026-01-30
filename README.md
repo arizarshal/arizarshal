@@ -1,12 +1,3 @@
-
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%E2%9A%A1;Open-Source+Learner+%F0%9F%9A%80;Building+Scalable+Systems+%F0%9F%8F%97%EF%B8%8F)
-
-</div>
----
-## 🛠️ Tech 
-
 <div align="center">
 
 ### Backend & Database
